@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "a7574be9ee683f216bc9",
+    "revision": "dcfc5650c3a938abcfac",
     "url": "/static/css/main.c6a84f57.chunk.css"
   },
   {
-    "revision": "a7574be9ee683f216bc9",
-    "url": "/static/js/main.450a7e3e.chunk.js"
+    "revision": "dcfc5650c3a938abcfac",
+    "url": "/static/js/main.74868760.chunk.js"
   },
   {
     "revision": "42ac5946195a7306e2a5",
@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/static/media/SEGA.12a3db8b.woff"
   },
   {
-    "revision": "5e2c7e676dc7ae6048298297bafbe9bc",
+    "revision": "1af77e0e81ab31baa6272476798fbc07",
     "url": "/index.html"
   }
 ];
